@@ -1,0 +1,9 @@
+Evaluation type,Method,Metric,Value
+Video reconstruction,Standard DMD,Mean relative error frames 1-19 (%),0.00000000
+Video reconstruction,Standard DMD,Relative error frame 20 (%),12.97937699
+Video reconstruction,FFT-TDMD,Mean relative error frames 1-19 (%),0.89388554
+Video reconstruction,FFT-TDMD,Relative error frame 20 (%),1.35005985
+Background estimation,FFT-TDMD,MAE,0.0119689773
+Background estimation,FFT-TDMD,Relative error (%),12.39597549
+Background estimation,Temporal median,MAE,0.0000000000
+Background estimation,Temporal median,Relative error (%),0.00000000

@@ -1,0 +1,2 @@
+method,input_frames,reconstructed_frames,overall_mae,overall_rmse,overall_relative_error_percent,mean_frame_relative_error_percent,max_frame_relative_error_percent
+Unfolding DMD,12,11,0.0009991655256822566,0.004271030708766671,0.015830508746140396,0.004764761762849509,0.05241237919379362

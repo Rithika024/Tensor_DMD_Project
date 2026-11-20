@@ -1,0 +1,2 @@
+method,MAE,RMSE,mean_relative_error_percent,max_frame_relative_error_percent,TT_roundtrip_relative_error,runtime_seconds
+TT-DMD (Python TT-SVD),0.04008600940718951,0.05497529466145277,0.20378323523132993,0.30601666940398636,3.3478761496570086e-15,0.1549589999485761

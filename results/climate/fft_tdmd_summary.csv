@@ -1,0 +1,2 @@
+method,dataset_shape,reconstruction_shape,mean_relative_error_percent,mean_frame_MAE,mean_frame_RMSE
+FFT-TDMD,"(60, 60, 12)","(60, 60, 11)",0.00476476174546164,0.0009991655218211783,0.0012877642118875774

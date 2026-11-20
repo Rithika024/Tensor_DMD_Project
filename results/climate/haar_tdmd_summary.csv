@@ -1,0 +1,2 @@
+method,dataset_shape,reconstruction_shape,mean_relative_error_percent,mean_frame_MAE,mean_frame_RMSE,max_imaginary_component
+Haar-TDMD,"(60, 60, 12)","(60, 60, 11)",0.005255306334555883,0.0011062365402817252,0.0014203428800173073,8.851911445593302e-13

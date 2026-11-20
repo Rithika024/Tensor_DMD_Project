@@ -1,0 +1,40 @@
+﻿# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local backups and packaged submissions
+backup_before_eigentube/
+project_submission_and_demo/
+Tensor_DMD_Final_Submission.zip
+
+# Original reference materials
+reference/
+
+# Large generated arrays and temporary videos
+*.npy
+*.npz
+*.mp4
+*.avi
+*.mov
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local README backup
+README_backup_before_github.md

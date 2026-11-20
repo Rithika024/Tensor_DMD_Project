@@ -1,0 +1,2 @@
+method,input_frames,reconstructed_frames,mean_frame_mae,mean_frame_rmse,overall_mae,overall_rmse,overall_relative_error_percent,maximum_imaginary_component
+Cosine-TDMD,12,11,0.0013404372390466808,0.0017174395707947273,0.0013404372390466808,0.005696102656073012,0.021112515705117938,8.827629960408846e-14
